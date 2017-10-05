@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\500b97366a4f5cc833a7cee11c154899089e68e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="599391252c9619b99dbc5cea5685da204a07f03c">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5545455862e9bb500a0b2f130a44cefc850108a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\048e43d27679106a17e47814874cbb4f6ea24060\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_874b78d92658c72b9251d5f17a230c18bd8eed62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\6aaeb503b22a37eefa79abbec31087bf2d1a3aaf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05b9e7e23ca51c9110206afad7ac5b842851491e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\4ef87f7d62b5a581e8b471ef9a55eabd03b6e615\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da1ce1b9fea2853b16b1c98b8c1ba43f672c67c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git601\VRImg\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82d23aae5bab5bf1aa2122601ce4b9b706d01460">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a98c554e10d1bf373f4638dfb59438171f51106e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_bf2f9cdba8920386dd4f9a9a98ddd08251553393\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\aaf16c2268deb9034eb6fcc8a8c9bca1e4c7f2ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad117bd0df0338a8502e35d0523318181a91998e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\a6bd5cf0700fca692ad4734f0aa4a937765b7be9\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_34210dead8c4915d8b7deba6306a8862acaaf2f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\c12df7f0614aa5347d146401fce1d08ac15bfcbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4d5c35a22b8e4563afeb030eb16f137717503d1">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_643310c6003f69877408854900a56eb1cbaa7a65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\02e6d24f7be99435631feeb065018fcd86bd1d95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89deaecf0c187e7b5f664f2d8a4c59542af32c4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\a6bd5cf0700fca692ad4734f0aa4a937765b7be9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e5e19e8065270806adb0a19c53a71ca123fe2a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\4e803c04d5d7600853547731b2807366909a4b24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8dc93728e20f4cb73c2c08ba9ac8f368636b993\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\4e803c04d5d7600853547731b2807366909a4b24\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e95eea8d8bc4b0bc801772acbc0854a6b5190f6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\365e7d5878e48f4cad6bab6fd16a39ec0a653abd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0d11c9189165eb3770198c94165628888e2e08d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\583469839ab40126456418ab6ee5981965d90dea\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d17418ae236f13f05f2cff528f623421d352cb8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.gradle\caches\modules-2\files-2.1\com.google.protobuf.nano\protobuf-javanano\3.1.0\5110f05deac8f15244897b3f70e9ce413468771d\protobuf-javanano-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5110f05deac8f15244897b3f70e9ce413468771d">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\protobuf-javanano-3.1.0_14619eab3fc76c13f92318e090604c5f69ab6693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\583469839ab40126456418ab6ee5981965d90dea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0bfc2fdfadeca7593639480c50178f8c7ceb070a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git601\VRImg\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_605d690643aa56b7a4382f477a87e2f99c8fce62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\0f90402ce564d3e3fc8620ff5a145da983300e5c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f4e44ef932f9ce4e19dde2e24375ebee06e686">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76483f3c9c95831cc30da86bc7febd6df3e8e415\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\aaf16c2268deb9034eb6fcc8a8c9bca1e4c7f2ac\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8506316d2118863e515b5a21bd6d22943d21ff6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xingkong\.android\build-cache\6aaeb503b22a37eefa79abbec31087bf2d1a3aaf\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\git601\VRImg\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4a4c7ae3b13f5063ebef0a3937bf990d840d9486\classes.dex" />
+    </item>
+
+</items>
